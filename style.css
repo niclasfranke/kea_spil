@@ -1,0 +1,307 @@
+*/ div {
+    outline: 2px dotted yellow;
+}
+
+#game_background {
+    background-image: url("spildesktop.svg");
+    background-size: cover;
+    width: 100vw;
+    height: 56.25vw;
+    position: absolute;
+    z-index: 0;
+
+}
+
+#game_elements {
+    background-image: url("pause.svg");
+    background-repeat: space;
+
+    width: 20vw;
+    height: 20vw;
+    background-size: 100%;
+
+    position: absolute;
+    left: -2vw;
+    top: -3vw;
+    z-index: 1;
+
+}
+
+#fig {
+    background-image: url("mute.svg");
+    background-repeat: no-repeat;
+
+    width: 9vw;
+    height: 9vw;
+    background-size: 100%;
+
+    position: absolute;
+    left: 12vw;
+    top: 5.5vw;
+    z-index: 1;
+
+}
+
+#fig1 {
+    background-image: url("tid.svg");
+    background-repeat: no-repeat;
+
+    width: 20vw;
+    height: 15vw;
+    background-size: 100%;
+
+    position: absolute;
+    left: 80vw;
+    top: 50vw;
+    z-index: 1;
+
+
+
+}
+
+#fig2 {
+    background-image: url("point.svg");
+    background-repeat: no-repeat;
+
+    width: 15vw;
+    height: 7vw;
+    background-size: 100%;
+
+    position: absolute;
+    left: 80vw;
+    top: 4vw;
+    z-index: 1;
+
+}
+
+#fig3 {
+    background-image: url("");
+    background-repeat: no-repeat;
+
+    width: 20vw;
+    height: 20vw;
+
+    position: absolute;
+    left: 17vw;
+    top: 8.5vw;
+    z-index: 1;
+
+}
+
+#fig4 {
+    background-image: url("ond.svg");
+    background-repeat: round;
+
+    width: 8vw;
+    height: 8vw;
+
+    background-size: 100%;
+
+
+    position: absolute;
+    left: 20vw;
+    top: 25vw;
+    z-index: 1;
+
+}
+
+#fig5 {
+    background-image: url("s%C3%B8dalien.svg");
+    background-repeat: round;
+
+    width: 8vw;
+    height: 8vw;
+
+    background-size: 100%;
+
+    position: absolute;
+    left: 30vw;
+    top: 40vw;
+    z-index: 1;
+
+}
+
+#fig6 {
+    background-image: url("s%C3%B8dalien.svg");
+    background-repeat: round;
+
+    width: 8vw;
+    height: 8vw;
+
+    background-size: 100%;
+
+    position: absolute;
+    left: 50vw;
+    top: 35vw;
+    z-index: 1;
+}
+
+#fig7 {
+    background-image: url("ond.svg");
+    background-repeat: round;
+
+    width: 8vw;
+    height: 8vw;
+
+    background-size: 100%;
+
+    position: absolute;
+    left: 40vw;
+    top: 35vw;
+    z-index: 1;
+
+}
+
+
+#fig8 {
+    background-image: url("ond.svg");
+    background-repeat: round;
+
+    width: 8vw;
+    height: 8vw;
+
+    background-size: 100%;
+
+    position: absolute;
+    left: 46vw;
+    top: 29vw;
+    z-index: 1;
+
+}
+
+#fig9 {
+    background-image: url("s%C3%B8dalien.svg");
+    background-repeat: round;
+
+    width: 8vw;
+    height: 8vw;
+
+    background-size: 100%;
+
+    position: absolute;
+    left: 32vw;
+    top: 30vw;
+    z-index: 1;
+
+}
+
+#fig10 {
+    background-image: url("ond.svg");
+    background-repeat: round;
+
+    width: 8vw;
+    height: 8vw;
+
+    background-size: 100%;
+
+    position: absolute;
+    left: 60vw;
+    top: 27vw;
+    z-index: 1;
+
+}
+
+#fig11 {
+    background-image: url("ond.svg");
+    background-repeat: round;
+
+    width: 8vw;
+    height: 8vw;
+
+    background-size: 100%;
+
+    position: absolute;
+    left: 60vw;
+    top: 27vw;
+    z-index: 1;
+
+}
+
+#fig12 {
+    background-image: url("");
+    background-repeat: round;
+
+    width: 8vw;
+    height: 8vw;
+
+    background-size: 100%;
+    position: absolute;
+    left: 50vw;
+    top: 42vw;
+    z-index: 1;
+
+}
+
+#fig13 {
+    background-image: url("s%C3%B8dalien.svg");
+    background-repeat: round;
+
+    width: 8vw;
+    height: 8vw;
+
+    background-size: 100%;
+    position: absolute;
+    left: 70vw;
+    top: 35vw;
+    z-index: 1;
+
+}
+
+#fig14 {
+    background-image: url("ond.svg");
+    background-repeat: round;
+    background-size: 100%;
+    width: 8vw;
+    height: 8vw;
+
+    position: absolute;
+    left: 24vw;
+    top: 34vw;
+    z-index: 1;
+
+}
+
+#fig15 {
+    background-image: url("");
+    background-repeat: round;
+
+    width: 8vw;
+    height: 8vw;
+
+    background-size: 100%;
+    position: absolute;
+    left: 50vw;
+    top: 42vw;
+    z-index: 1;
+
+}
+
+#fig16 {
+    background-image: url("");
+    background-repeat: round;
+
+    width: 8vw;
+    height: 8vw;
+
+    background-size: 100%;
+    position: absolute;
+    left: 50vw;
+    top: 42vw;
+    z-index: 1;
+
+}
+
+#fig17 {
+    background-image: url("kryds.svg");
+    background-repeat: round;
+
+    width: 4vw;
+    height: 4vw;
+
+    background-size: 100%;
+    position: absolute;
+    left: 64.7vw;
+    top: 5.4vw;
+    z-index: 1;
+
+}
